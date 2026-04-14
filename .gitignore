@@ -1,0 +1,6 @@
+# Ignore nested git repos and dependencies
+zenskacrm-backend/.git
+zenskacrm-fe/.git
+node_modules/
+**/node_modules/
+.DS_Store
